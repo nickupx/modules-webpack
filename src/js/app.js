@@ -3,4 +3,4 @@ import sum from './basic';
 
 console.log('worked');
 
-console.log(sum([1, 2]));
+console.log(sum([1, 1]));
